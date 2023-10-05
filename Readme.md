@@ -30,10 +30,16 @@ yarn install
 
 ## JSON Server
 
-Navigate to the "json-server" folder, which contains the mock server using JSON Server.
+Navigate to the "ServerApp" folder, which contains the mock server using JSON Server.
 
 ```
 yarn install
+```
+
+and then run on local server.
+
+```
+yarn start
 ```
 
 <br/><br/>
