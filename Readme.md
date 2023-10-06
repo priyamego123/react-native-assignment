@@ -12,10 +12,10 @@ Clone this repository to your local machine:
 
 ### React Native App
 
-Navigate to the "ReacttaskApp" folder, which contains the React Native app.
+Navigate to the "ReactTaskApp" folder, which contains the React Native app.
 
 ```
-cd ReacttaskApp
+cd ReactTaskApp
 ```
 
 #### Installation
@@ -46,19 +46,16 @@ yarn start
 
 ## Assignment Details
 
-Your task is to complete the React Native user interface for the mobile app. The app should interact with the mock server to perform CRUD (Create, Read, Update, Delete) operations on the data.
+Your task is to complete the React Native user interface for the mobile app. The app should interact with the mock server to perform CRUD (Create, Read, Update, Delete) operations on the data. Entire task list has been given in details in the ChirpzAssignment.pdf folder
 
 <br/>
 
 ## Submission
 
-Clone or fork this repository to your GitHub account.
-
-Complete the React Native assignment, following the requirements and any optional features you choose.
-
-Push your changes to your GitHub repository.
-
-Send us the link to your GitHub repository when you're done.
+- Clone or fork this repository to your GitHub account.
+- Complete the React Native assignment, following the requirements and any optional features you choose.
+- Push your changes to your GitHub repository.
+- Send us the link to your forked GitHub repository when you're done.
 
 <br/>
 
