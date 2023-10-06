@@ -1,6 +1,6 @@
 # React Native Assignment
 
-Welcome to the React Native assignment for [Your Company Name]! This assignment is designed to evaluate your React Native skills and your ability to create a functional mobile app.
+Welcome to the React Native assignment! This assignment is designed to evaluate your React Native skills and your ability to create a functional mobile app.
 
 ## Getting Started
 
